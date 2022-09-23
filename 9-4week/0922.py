@@ -1,28 +1,33 @@
 # https://www.acmicpc.net/problem/1012
 
+import sys
+sys.setrecursionlimit(10**6)
+dx = [-1,1,0,0]
+dy = [0,0,-1,1]
+def dfs(x,y):
+    array[x][y] = 0
+    for t in range(4):
+        nx = x + dx[i]
+        ny = y + dy[i]
+        if nx < 0 or nx >= int(num[1]) or ny < 0 or ny >= int(num[0]):
+            continue
+        if array[nx][ny] == 1:
+            dfs(nx, ny)
+    return
+
 n = int(input())
 for i in range(0,n):
     num = input().split()
     array = [[0 for col in range(int(num[0]))] for row in range(int(num[1]))]
-    for h in range(0,int(num[2])):
+    for j in range(0,int(num[2])):
         cabbage = input().split()
-        # 상
-        if(int(cabbage[0])>0):
-            if(array[int(cabbage[0])-1][int(cabbage[1])]==1):
-                array[int(cabbage[0])][int(cabbage[1])] = 2
-        # 하
-        elif (int(cabbage[0]) < int(num[2])-1):
-            if (array[int(cabbage[0]) + 1][int(cabbage[1])] == 1):
-                array[int(cabbage[0])][int(cabbage[1])] = 2
-        # 좌
-        elif (int(cabbage[1]) > 0):
-            if (array[int(cabbage[0])][int(cabbage[1])-1] == 1):
-                array[int(cabbage[0])][int(cabbage[1])] = 2
-
-        # 우
-        elif (int(cabbage[1]) < int(num[0])-1):
-            if (array[int(cabbage[0]) - 1][int(cabbage[1])+1] == 1):
-                array[int(cabbage[0])][int(cabbage[1])] = 2
-        else:
-            array[int(cabbage[0])][int(cabbage[1])] = 1
-    print(array)
+        x = int(cabbage[0])
+        y = int(cabbage[1])
+        array[y][x] = 1
+    warm = 0
+    for g in range(int(num[1])):
+        for h in range(int(num[0])):
+            if array[g][h] ==1:
+                dfs(g,h)
+                warm += 1
+    print(warm)
