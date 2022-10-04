@@ -14,5 +14,3 @@ for i in range(n):
     else:
         if len(heap) != 0:
             print(heapq.heappop(heap))
-        else:
-            print(0)

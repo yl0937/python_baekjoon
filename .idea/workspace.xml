@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eabf8fb2-2e7c-4259-878b-034346a10d3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/10-1week/1003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-1week/1004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-5week/0926.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-5week/0927.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-5week/0928.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-5week/0929.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-5week/0930.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-5week/1001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-5week/1002.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9-4week/0922.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_baekjoon-main/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-4week/0921.py" beforeDir="false" afterPath="$PROJECT_DIR$/9-4week/0921.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-4week/0922.py" beforeDir="false" afterPath="$PROJECT_DIR$/9-4week/0922.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
