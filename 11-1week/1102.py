@@ -15,7 +15,7 @@ def DFS(x,y):
         count += 1
         # 탐색한 부분 0으로 변경
         square[x][y] = 0
-        # 덩사님븍 팀섹
+        # 동사님븍 팀섹
         for i in range(4):
             nx = x + dx[i]
             ny = y + dy[i]
