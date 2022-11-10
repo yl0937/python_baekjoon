@@ -30,7 +30,10 @@ class Heap:
             targetIdx = -1
 
             if (rightIdx < len(self.heap)):
-                targetIdx = leftIdx if self.heap[leftIdx] < self.heap[rightIdx] else rightIdx
+                if(self.heap[leftIdx] < self.heap[rightIdx]):
+                    targetIdx = leftIdx
+                else:
+                    targetIdx = rightIdx
             elif (leftIdx < len(self.heap)):
                 targetIdx = cur * 2
             else: break
