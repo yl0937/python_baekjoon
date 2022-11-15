@@ -15,5 +15,5 @@ for i in range(T):
 
     for item in wearCase:
         case *= wearCase[item] + 1
-    print(case-1)
-
+    case -= 1
+    print(case)
