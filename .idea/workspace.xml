@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eabf8fb2-2e7c-4259-878b-034346a10d3b" name="Changes" comment="1112" />
+    <list default="true" id="eabf8fb2-2e7c-4259-878b-034346a10d3b" name="Changes" comment="1112">
+      <change afterPath="$PROJECT_DIR$/202211/11-3week/1115.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,9 +45,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\workplace\pythonProject\baekjoon\202211" />
+      <recent name="C:\workplace\pythonProject\baekjoon\202210" />
+      <recent name="C:\workplace\pythonProject\baekjoon\202209" />
       <recent name="C:\workplace\python_baekjoon-main\10-1week" />
       <recent name="C:\workplace\python_baekjoon-main\9-5week" />
-      <recent name="C:\workplace\python_baekjoon-main\9-4week" />
     </key>
   </component>
   <component name="RunManager" selected="Python.1112">
@@ -156,9 +161,9 @@
     <list>
       <item itemvalue="Python.1110" />
       <item itemvalue="Python.1111" />
+      <item itemvalue="Python.1112" />
       <item itemvalue="Python.MinHeap" />
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.1112" />
     </list>
     <recent_temporary>
       <list>
@@ -273,12 +278,12 @@
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/10-1week/1005.py</url>
+          <url>file://$PROJECT_DIR$/202210/10-1week/1005.py</url>
           <line>14</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/11-1week/1102.py</url>
+          <url>file://$PROJECT_DIR$/202211/11-1week/1102.py</url>
           <line>3</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
