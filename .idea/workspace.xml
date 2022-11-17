@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eabf8fb2-2e7c-4259-878b-034346a10d3b" name="Changes" comment="1112">
+    <list default="true" id="eabf8fb2-2e7c-4259-878b-034346a10d3b" name="Changes" comment="1115">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/202211/11-2week/1111.py" beforeDir="false" afterPath="$PROJECT_DIR$/202211/11-2week/1111.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/202211/11-3week/1115.py" beforeDir="false" afterPath="$PROJECT_DIR$/202211/11-3week/1115.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -237,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668256257231</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="1115">
+      <created>1668517371177</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668517371177</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -259,7 +264,8 @@
     <MESSAGE value="MinHeap" />
     <MESSAGE value="1111" />
     <MESSAGE value="1112" />
-    <option name="LAST_COMMIT_MESSAGE" value="1112" />
+    <MESSAGE value="1115" />
+    <option name="LAST_COMMIT_MESSAGE" value="1115" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
