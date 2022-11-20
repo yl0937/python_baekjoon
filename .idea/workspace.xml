@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eabf8fb2-2e7c-4259-878b-034346a10d3b" name="Changes" comment="1115">
+    <list default="true" id="eabf8fb2-2e7c-4259-878b-034346a10d3b" name="Changes" comment="1117">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/arigonggan" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/personal-restaurant-main" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -51,7 +51,7 @@
       <recent name="C:\workplace\python_baekjoon-main\9-5week" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1111 (1)">
+  <component name="RunManager" selected="Python.test">
     <configuration name="1111 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="baekjoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -166,10 +166,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.1111 (1)" />
         <item itemvalue="Python.1112" />
         <item itemvalue="Python.1111" />
-        <item itemvalue="Python.test" />
         <item itemvalue="Python.MinHeap" />
       </list>
     </recent_temporary>
@@ -242,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668517371177</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="1117">
+      <created>1668684750309</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1668684750309</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -265,7 +272,8 @@
     <MESSAGE value="1111" />
     <MESSAGE value="1112" />
     <MESSAGE value="1115" />
-    <option name="LAST_COMMIT_MESSAGE" value="1115" />
+    <MESSAGE value="1117" />
+    <option name="LAST_COMMIT_MESSAGE" value="1117" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
