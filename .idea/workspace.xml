@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eabf8fb2-2e7c-4259-878b-034346a10d3b" name="Changes" comment="1122">
-      <change afterPath="$PROJECT_DIR$/202211/11-4week/1123.py" afterDir="false" />
+    <list default="true" id="eabf8fb2-2e7c-4259-878b-034346a10d3b" name="Changes" comment="1123">
+      <change afterPath="$PROJECT_DIR$/202211/11-4week/1125.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/algorithm/sort/sort1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/algorithm/sort/sort2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,49 +54,7 @@
       <recent name="C:\workplace\python_baekjoon-main\9-5week" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1123">
-    <configuration name="1111 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="baekjoon" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/202211/11-2week" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/202211/11-2week/1111.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1112" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="baekjoon" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11-2week" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11-2week/1112.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.1125 (1)">
     <configuration name="1122" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="baekjoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1125 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="baekjoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,11 +105,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/202211/11-4week" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/202211/11-4week/1125.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1125" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="baekjoon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/202211/11-4week" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\workplace\pythonProject\baekjoon\202211\11-4week\1125.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sort1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="baekjoon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/algorithm/sort" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/algorithm/sort/sort1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,19 +161,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.1112" />
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.1111 (1)" />
       <item itemvalue="Python.1122" />
       <item itemvalue="Python.1123" />
+      <item itemvalue="Python.sort1" />
+      <item itemvalue="Python.1125" />
+      <item itemvalue="Python.1125 (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1125 (1)" />
+        <item itemvalue="Python.1125" />
+        <item itemvalue="Python.sort1" />
         <item itemvalue="Python.1123" />
         <item itemvalue="Python.1122" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.1111 (1)" />
-        <item itemvalue="Python.1112" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +273,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669110727094</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="1123">
+      <created>1669169426179</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1669169426179</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -298,7 +307,8 @@
     <MESSAGE value="1120" />
     <MESSAGE value="1121" />
     <MESSAGE value="1122" />
-    <option name="LAST_COMMIT_MESSAGE" value="1122" />
+    <MESSAGE value="1123" />
+    <option name="LAST_COMMIT_MESSAGE" value="1123" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -326,6 +336,11 @@
           <url>file://$PROJECT_DIR$/202211/11-1week/1102.py</url>
           <line>3</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithm/algorithm/sort/sort1.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
