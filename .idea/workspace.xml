@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eabf8fb2-2e7c-4259-878b-034346a10d3b" name="Changes" comment="1123">
-      <change afterPath="$PROJECT_DIR$/202211/11-4week/1125.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/algorithm/sort/sort1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/algorithm/sort/sort2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="eabf8fb2-2e7c-4259-878b-034346a10d3b" name="Changes" comment="1123" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,12 +34,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/personal-restaurant-main" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/workplace/python_baekjoon-main"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\workplace\pythonProject\baekjoon\202211" />
@@ -163,9 +159,9 @@
     <list>
       <item itemvalue="Python.1122" />
       <item itemvalue="Python.1123" />
-      <item itemvalue="Python.1125 (1)" />
-      <item itemvalue="Python.1125" />
       <item itemvalue="Python.sort1" />
+      <item itemvalue="Python.1125" />
+      <item itemvalue="Python.1125 (1)" />
     </list>
     <recent_temporary>
       <list>
